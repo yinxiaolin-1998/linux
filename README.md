@@ -1,2 +1,1 @@
-# linux
-other
+other this is test
